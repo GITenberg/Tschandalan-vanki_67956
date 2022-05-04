@@ -1,0 +1,27 @@
+_repo: Tschandalan-vanki_67956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pennanen, Ain'Elisabet
+    birthdate: 1881
+    deathdate: 1945
+    gutenberg_agent_id: '54334'
+    url: http://www.gutenberg.org/2009/agents/54334
+    wikipedia: https://fi.wikipedia.org/wiki/Ain%E2%80%99Elisabet_Pennanen
+description: ''
+gutenberg_issued: '2022-04-30'
+identifiers:
+  gutenberg: '67956'
+language: fi
+pgterms:marc905: 20220308014625pennanen
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :Ntamo,1907,reprint 2021.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tschandalan vanki
+url: http://www.gutenberg.org/ebooks/67956
